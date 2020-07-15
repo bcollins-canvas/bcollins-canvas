@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I work at Canvas building tools to make humans more efficient!
+
 <!--
 **bcollins-canvas/bcollins-canvas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
